@@ -19,7 +19,7 @@
 <img src="Demon Squad Report/IMG_20240901_133507.jpg">
 
 ### Report Channel
-<img src="/report/Screenshot_20230805-113258_Pydroid 3.jpg">
+<img src="Demon Squad Report/IMG_20240901_132626.jpg">
 
 ### Report Group [updating]
 - It is currently being updated
