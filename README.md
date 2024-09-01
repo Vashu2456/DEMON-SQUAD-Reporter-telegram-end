@@ -16,7 +16,7 @@
 * Illegal Drugs ⚠️
 * Personal Details ⚠️
 ### Report Account
-<img src="/report/Screenshot_20230805-110416_Pydroid 3.jpg">
+<img src="Demon Squad Report/IMG_20240901_133507.jpg">
 
 ### Report Channel
 <img src="/report/Screenshot_20230805-113258_Pydroid 3.jpg">
